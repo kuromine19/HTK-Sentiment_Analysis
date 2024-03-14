@@ -26,7 +26,7 @@ hình phân loại nội dung về các sự kiện thời sự để theo dõi 
 ## :space_invader: Các bước thực hiên
 
 <details>
-  <summary>Thu thập dữ liệu: Kaggle/summary>
+  <summary>Thu thập dữ liệu: Kaggle </summary>
 </details>
 
 <details>
