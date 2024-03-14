@@ -32,6 +32,10 @@
 </details>
 
 <details>
+  <summary>Xử lý và phân tích dữ liệu: Sử dụng Python để tiền xử lý và tương quan các cột dữ liệu để tìm ra features thích hợp để train mô hình.  </summary>
+</details>
+
+<details>
   <summary>Chọn và huấn luyện mô hình: Sử dụng mô hình pre-trained BERT để huấn luyện với dữ liệu thu thập được.</summary>
 </details>
 
