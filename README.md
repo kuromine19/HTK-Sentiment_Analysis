@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>HTK-Sentiment_Analysis</h1>
+  <h1>HTK - Sentiment Analysis</h1>
 </div>
    
 <!-- About the Project -->
